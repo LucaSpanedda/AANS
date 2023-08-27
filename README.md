@@ -13,3 +13,17 @@ Some interesting videos and posts by Simon on the subject are
 - [Music and Synthesis with a Single Neuron]([Music and Synthesis with a Single Neuron &#8211; Simon Hutchinson](https://simonhutchinson.com/2022/05/11/music-and-synthesis-with-a-single-neuron/)) 
 
 One of the first relevant experiences in the use of Artificial Neural Networks is in the case of [David Tudor's Neural Synthesis]([Analog Neural Synthesis - MLure.art](https://mlure.art/analog-neural-synthesis/)). David Tudor in '89, after a show in Berkeley, met the designer and planner Forrest Warthman, who introduced him to the idea of using analog neural networks to combine all his complex live-electronics activity into a single computer.  One of the appreciable results is in the CD's "Neural Synthesis" series, in one of which there are [important liner notes by Warthman](http://www.lovely.com/albumnotes/notes1602.html)
+
+
+
+## Architecure of the Intel 80170NX neurons
+
+<img src="file:///Users/lucaspanedda/Downloads/NeuronArchitecture.jpg" title="" alt="NeuronArchitecture.jpg" data-align="center">
+
+## Oscillator Schematic
+
+<img src="file:///Users/lucaspanedda/Downloads/OscillatorScheme.jpg" title="" alt="OscillatorScheme.jpg" data-align="center">
+
+## Feedback architecture
+
+![FeedbackPaths.jpg](/Users/lucaspanedda/Downloads/FeedbackPaths.jpg)
