@@ -1,4 +1,4 @@
-Repository for Artificial Neural Networks studies in the Digital Signal Processing realm, coded in Faust - AANs
+# Repository for Artificial Neural Networks studies in the Digital Signal Processing realm, coded in Faust - AANs
 
 The reason behind these studies is in the need to find methods to create nonlinearities in the Complex Adaptive Systems (CASes) I am making in Faust, with the purpose of generating nonlinear control signals within the networks as autonomous forms of intelligence; or nonlinear synthesis signals.
 
@@ -13,5 +13,3 @@ Some interesting videos and posts by Simon on the subject are
 - [Music and Synthesis with a Single Neuron]([Music and Synthesis with a Single Neuron &#8211; Simon Hutchinson](https://simonhutchinson.com/2022/05/11/music-and-synthesis-with-a-single-neuron/)) 
 
 One of the first relevant experiences in the use of Artificial Neural Networks is in the case of [David Tudor's Neural Synthesis]([Analog Neural Synthesis - MLure.art](https://mlure.art/analog-neural-synthesis/)). David Tudor in '89, after a show in Berkeley, met the designer and planner Forrest Warthman, who introduced him to the idea of using analog neural networks to combine all his complex live-electronics activity into a single computer.  One of the appreciable results is in the CD's "Neural Synthesis" series, in one of which there are [important liner notes by Warthman](http://www.lovely.com/albumnotes/notes1602.html)
-
-
