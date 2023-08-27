@@ -17,13 +17,10 @@ One of the first relevant experiences in the use of Artificial Neural Networks i
 
 
 ## Architecure of the Intel 80170NX neurons
-
-<img src="file:///Users/lucaspanedda/Downloads/NeuronArchitecture.jpg" title="" alt="NeuronArchitecture.jpg" data-align="center">
+<img src="NeuronArchitecture.jpg" title="" alt="NeuronArchitecture.jpg" data-align="center">
 
 ## Oscillator Schematic
-
-<img src="file:///Users/lucaspanedda/Downloads/OscillatorScheme.jpg" title="" alt="OscillatorScheme.jpg" data-align="center">
+<img src="OscillatorScheme.jpg" title="" alt="OscillatorScheme.jpg" data-align="center">
 
 ## Feedback architecture
-
-![FeedbackPaths.jpg](/Users/lucaspanedda/Downloads/FeedbackPaths.jpg)
+<img src="FeedbackPaths.jpg" title="" alt="OscillatorScheme.jpg" data-align="center">
