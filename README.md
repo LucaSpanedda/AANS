@@ -1,4 +1,4 @@
-Repository for Artificial Neural Networks studies in the Digital Signal Processing realm, coded in Faust - AANs
+# Repository for Artificial Neural Networks studies in the Digital Signal Processing realm, coded in Faust - AANs
 
 
 
